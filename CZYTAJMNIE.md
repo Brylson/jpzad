@@ -22,7 +22,7 @@ int main() {
 
 obrazek
 ![logo](http://tecadmin.net/wp-content/uploads/2013/02/bash-logo.jpg).
-```
+
 <table>
 <tr><td>ala<td>ola
 </table>
@@ -31,4 +31,4 @@ obrazek
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-```
+
