@@ -1,0 +1,4 @@
+jpzad
+=====
+
+rozwiązania zadań
