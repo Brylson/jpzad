@@ -1,0 +1,3 @@
+bash -- zadania
+
+1.\ Zadanie
