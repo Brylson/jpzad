@@ -31,3 +31,15 @@ touch program.c
 head -2 program.c
 tail -4 program.c
 grep main program.c
+chmod 640 program.c
+mv -f ~/temp/dom/wazne-sprawy ~/temp/praca
+tar -cf temp.gzip.tar temp
+rmdir --ignore-fail-on-non-empty
+tar -xf temp.gzip.tar temp
+```
+
+Lab 3.
+
+```sh
+
+
